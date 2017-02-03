@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Aion_Launcher.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="login" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="pass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="autoUpdate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="news1text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Изменения на проекте.</Value>
+    </Setting>
+    <Setting Name="news2text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Фикс Русского Сервера Aion-Spb От 20.12.2011</Value>
+    </Setting>
+    <Setting Name="news3text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Фикс Русского Сервера Aion-Spb От 14.12.2011</Value>
+    </Setting>
+    <Setting Name="news4text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Фикс Русского Сервера Aion-Spb От 13.12.2011</Value>
+    </Setting>
+    <Setting Name="news5text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Плановая профилактика.</Value>
+    </Setting>
+    <Setting Name="news1link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://aion-spb.ru/news-39</Value>
+    </Setting>
+    <Setting Name="news2link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://aion-spb.ru/news-38</Value>
+    </Setting>
+    <Setting Name="news3link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://aion-spb.ru/news-37</Value>
+    </Setting>
+    <Setting Name="news4link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://aion-spb.ru/news-36</Value>
+    </Setting>
+    <Setting Name="news5link" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://aion-spb.ru/news-35</Value>
+    </Setting>
+    <Setting Name="savePass" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,62 @@
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.pdb
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.Form1.resources
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.Properties.Resources.resources
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.pdb
+c:\users\doyrdendzirt\documents\visual studio 2010\Projects\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.FormSettings.resources
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.pdb
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.pdb
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.csprojResolveAssemblyReference.cache
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.Form1.resources
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.FormSettings.resources
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.Properties.Resources.resources
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.csproj.GenerateResource.Cache
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.manifest
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.application
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe.manifest
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.application
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.pdb
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.manifest
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.application
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.pdb
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.csprojResolveAssemblyReference.cache
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.Form1.resources
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.FormSettings.resources
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.Properties.Resources.resources
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.csproj.GenerateResource.Cache
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe.manifest
+F:\AION DEVELOPER(last)\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.application
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.pdb
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.manifest
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.application
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.pdb
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.Form1.resources
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.FormSettings.resources
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.Properties.Resources.resources
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.csproj.GenerateResource.Cache
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe.manifest
+C:\Users\Andrey\Desktop\launcher\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.application
+C:\Users\Andrey\Desktop\Работа над сервером\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+C:\Users\Andrey\Desktop\Работа над сервером\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe
+C:\Users\Andrey\Desktop\Работа над сервером\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.pdb
+C:\Users\Andrey\Desktop\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+C:\Users\Andrey\Desktop\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe
+C:\Users\Andrey\Desktop\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.pdb
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.pdb

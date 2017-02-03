@@ -1,0 +1,13 @@
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.manifest
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.application
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.pdb
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.Form1.resources
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.FormSettings.resources
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion_Launcher.Properties.Resources.resources
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion SuccesS.csproj.GenerateResource.Cache
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe.manifest
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.application
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.exe
+C:\AION DEVELOPER\Launcher\Новая папка (2)\Aion Launcher\Aion Launcher\obj\x86\Debug\Aion Launcher.pdb

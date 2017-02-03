@@ -1,0 +1,30 @@
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.exe
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\bin\Debug\Aion Launcher.pdb
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\Debug\Aion_Launcher.Form1.resources
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\Debug\Aion_Launcher.FormSettings.resources
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\Debug\Aion_Launcher.Properties.Resources.resources
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\Debug\Aion Launcher.csproj.GenerateResource.Cache
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\Debug\Aion Launcher.exe
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\Debug\Aion Launcher.pdb
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\Debug\Aion_Launcher.Form2.resources
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\Debug\Aion Launcher.csprojResolveAssemblyReference.cache
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\obj\Debug\Aion_Launcher.Form3.resources
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для пережелок\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для пережелок\Aion Launcher\obj\Debug\Aion Launcher.exe
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для пережелок\Aion Launcher\obj\Debug\Aion Launcher.pdb
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\obj\Debug\Aion Launcher.exe
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\obj\Debug\Aion Launcher.pdb
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\bin\Debug\Aion Launcher.exe
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\bin\Debug\Aion Launcher.pdb
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\obj\Debug\Aion Launcher.csprojResolveAssemblyReference.cache
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\obj\Debug\Aion_Launcher.Form1.resources
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\obj\Debug\Aion_Launcher.Form2.resources
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\obj\Debug\Aion_Launcher.Form3.resources
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\obj\Debug\Aion_Launcher.FormSettings.resources
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\obj\Debug\Aion_Launcher.Properties.Resources.resources
+D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher для переделок\Aion Launcher\obj\Debug\Aion Launcher.csproj.GenerateResource.Cache
+C:\Users\jdhirst\Desktop\Aion Launcher Gladiator\Aion Launcher\bin\Debug\Aion Launcher.exe.config
+C:\Users\jdhirst\Desktop\Aion Launcher Gladiator\Aion Launcher\obj\Debug\Aion Launcher.exe
+C:\Users\jdhirst\Desktop\Aion Launcher Gladiator\Aion Launcher\obj\Debug\Aion Launcher.pdb
