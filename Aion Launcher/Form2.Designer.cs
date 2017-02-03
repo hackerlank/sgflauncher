@@ -55,7 +55,7 @@
             this.Name = "Form2";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form2";
+            this.Text = "Loading";
             this.TransparencyKey = System.Drawing.SystemColors.Control;
             this.Load += new System.EventHandler(this.Form2_Load);
             this.ResumeLayout(false);

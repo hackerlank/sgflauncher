@@ -11,7 +11,7 @@ namespace Aion_Launcher
         public static int loginserverPort       = 2106;
 
         public static bool onlineEnabled        = false;
-        public static bool newsEnabled          = false;
+        public static bool newsEnabled          = true;
         public static bool launchUpdateEnabled  = false;
         public static bool deleteFilesEnabled   = true;
         public static bool DNSconnectEnabled    = true;
@@ -19,11 +19,11 @@ namespace Aion_Launcher
         public static string[] allowedFiles = { "Aion Launcher.exe", "cc.ini", "Pub.key", "system.cfg", "SystemOptionGraphics.cfg" };
 
         public static string clientUrl = "https://sgfgaming.com/dist/aion_4.7.5-enu.exe.torrent";
-        public static string launchFilesUrl     = "http://x.x.x.x/launch_false/";
-        public static string onlineUrl          = "http://x.x.x.x/test/online.txt";
+        public static string launchFilesUrl = "https://aionserver.sgfgaming.com/launcher/";
+        public static string onlineUrl = "https://aionserver.sgfgaming.com/launcher/online.txt";
         public static string dnsName            = "aionserver.sgfgaming.com";
 
-        public static string gameseverIP        = "192.168.122.10"; //148.251.232.44//127.0.0.1
-        public static string loginserverIP      = "192.168.122.10";
+        public static string gameseverIP        = "23.248.146.126"; //148.251.232.44//127.0.0.1
+        public static string loginserverIP      = "23.248.146.126";
     }
 }

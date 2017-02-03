@@ -1,1 +1,13 @@
 D:\Rabota nad serverom\10. Лаунчер с апдейтером\launcher — копия\Aion Launcher\Aion Launcher\bin\Release\Aion Launcher.exe.config
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\bin\Release\Aion Launcher.exe.config
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\bin\Release\Aion Launcher.exe
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\bin\Release\Aion Launcher.pdb
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\obj\Release\Aion_Launcher.Form1.resources
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\obj\Release\Aion_Launcher.Form2.resources
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\obj\Release\Aion_Launcher.Form3.resources
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\obj\Release\Aion_Launcher.FormSettings.resources
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\obj\Release\Aion_Launcher.Properties.Resources.resources
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\obj\Release\Aion Launcher.csproj.GenerateResource.Cache
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\obj\Release\Aion Launcher.exe
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\obj\Release\Aion Launcher.pdb
+C:\Users\jdhirst\Desktop\sgflauncher\Aion Launcher\obj\Release\Aion Launcher.csprojResolveAssemblyReference.cache

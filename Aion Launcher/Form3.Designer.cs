@@ -41,7 +41,7 @@
             this.button2.Font = new System.Drawing.Font("Javanese Text", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.button2.Location = new System.Drawing.Point(307, 75);
+            this.button2.Location = new System.Drawing.Point(307, 7);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(25, 26);
             this.button2.TabIndex = 11;
@@ -54,8 +54,8 @@
             this.labelDownloadFile.AutoSize = true;
             this.labelDownloadFile.BackColor = System.Drawing.Color.Transparent;
             this.labelDownloadFile.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelDownloadFile.ForeColor = System.Drawing.Color.Black;
-            this.labelDownloadFile.Location = new System.Drawing.Point(11, 321);
+            this.labelDownloadFile.ForeColor = System.Drawing.Color.White;
+            this.labelDownloadFile.Location = new System.Drawing.Point(7, 339);
             this.labelDownloadFile.Name = "labelDownloadFile";
             this.labelDownloadFile.Size = new System.Drawing.Size(321, 170);
             this.labelDownloadFile.TabIndex = 34;
@@ -70,16 +70,17 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(334, 557);
-            this.Controls.Add(this.labelDownloadFile);
             this.Controls.Add(this.button2);
+            this.Controls.Add(this.labelDownloadFile);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form3";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Form3";
+            this.Text = "Patch Notes";
             this.TopMost = true;
             this.TransparencyKey = System.Drawing.SystemColors.Control;
+            this.Load += new System.EventHandler(this.Form3_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

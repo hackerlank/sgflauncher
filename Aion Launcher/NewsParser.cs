@@ -18,7 +18,7 @@ namespace Aion_Launcher
                     {
                         string href = link.GetAttribute("href");
                         string text = link.InnerText;
-                        if (href.Contains("news-") && !text.Contains("Читать дальше"))
+                        if (href.Contains("news-") && !text.Contains("Read more"))
                             newsLinks.Add(new NewsLink(link.InnerText, href));
                         newsUpdateRequired = false;
                     }

@@ -75,7 +75,7 @@
             this.button_play.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_play.Font = new System.Drawing.Font("Franklin Gothic Medium", 13.75F, System.Drawing.FontStyle.Bold);
             this.button_play.ForeColor = System.Drawing.Color.Red;
-            this.button_play.Location = new System.Drawing.Point(574, 295);
+            this.button_play.Location = new System.Drawing.Point(586, 333);
             this.button_play.Name = "button_play";
             this.button_play.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.button_play.Size = new System.Drawing.Size(70, 39);
@@ -96,9 +96,9 @@
             this.button_settings.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button_settings.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, System.Drawing.FontStyle.Bold);
             this.button_settings.ForeColor = System.Drawing.Color.Transparent;
-            this.button_settings.Location = new System.Drawing.Point(31, 227);
+            this.button_settings.Location = new System.Drawing.Point(71, 191);
             this.button_settings.Name = "button_settings";
-            this.button_settings.Size = new System.Drawing.Size(130, 40);
+            this.button_settings.Size = new System.Drawing.Size(152, 40);
             this.button_settings.TabIndex = 1;
             this.button_settings.Text = " Options";
             this.button_settings.UseVisualStyleBackColor = false;
@@ -122,7 +122,7 @@
             this.label_GameServer.BackColor = System.Drawing.Color.Transparent;
             this.label_GameServer.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold);
             this.label_GameServer.ForeColor = System.Drawing.Color.Snow;
-            this.label_GameServer.Location = new System.Drawing.Point(241, 9);
+            this.label_GameServer.Location = new System.Drawing.Point(595, 265);
             this.label_GameServer.Name = "label_GameServer";
             this.label_GameServer.Size = new System.Drawing.Size(84, 13);
             this.label_GameServer.TabIndex = 8;
@@ -135,11 +135,11 @@
             this.label_LoginServer.BackColor = System.Drawing.Color.Transparent;
             this.label_LoginServer.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold);
             this.label_LoginServer.ForeColor = System.Drawing.Color.Snow;
-            this.label_LoginServer.Location = new System.Drawing.Point(446, 9);
+            this.label_LoginServer.Location = new System.Drawing.Point(595, 295);
             this.label_LoginServer.Name = "label_LoginServer";
-            this.label_LoginServer.Size = new System.Drawing.Size(79, 13);
+            this.label_LoginServer.Size = new System.Drawing.Size(75, 13);
             this.label_LoginServer.TabIndex = 9;
-            this.label_LoginServer.Text = ":LoginServer";
+            this.label_LoginServer.Text = "LoginServer";
             this.label_LoginServer.Click += new System.EventHandler(this.label_LoginServer_Click);
             // 
             // label_LoginStatus
@@ -148,7 +148,7 @@
             this.label_LoginStatus.BackColor = System.Drawing.Color.Transparent;
             this.label_LoginStatus.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label_LoginStatus.ForeColor = System.Drawing.Color.Red;
-            this.label_LoginStatus.Location = new System.Drawing.Point(400, 7);
+            this.label_LoginStatus.Location = new System.Drawing.Point(685, 295);
             this.label_LoginStatus.Name = "label_LoginStatus";
             this.label_LoginStatus.Size = new System.Drawing.Size(51, 17);
             this.label_LoginStatus.TabIndex = 10;
@@ -161,7 +161,7 @@
             this.label_GameStatus.BackColor = System.Drawing.Color.Transparent;
             this.label_GameStatus.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label_GameStatus.ForeColor = System.Drawing.Color.Red;
-            this.label_GameStatus.Location = new System.Drawing.Point(318, 7);
+            this.label_GameStatus.Location = new System.Drawing.Point(685, 263);
             this.label_GameStatus.Name = "label_GameStatus";
             this.label_GameStatus.Size = new System.Drawing.Size(51, 17);
             this.label_GameStatus.TabIndex = 11;
@@ -187,9 +187,9 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, System.Drawing.FontStyle.Bold);
             this.button1.ForeColor = System.Drawing.Color.Transparent;
-            this.button1.Location = new System.Drawing.Point(31, 273);
+            this.button1.Location = new System.Drawing.Point(71, 251);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(130, 41);
+            this.button1.Size = new System.Drawing.Size(152, 41);
             this.button1.TabIndex = 18;
             this.button1.Text = "About server";
             this.button1.UseVisualStyleBackColor = false;
@@ -203,7 +203,7 @@
             this.label1.Font = new System.Drawing.Font("Calibri", 200F, System.Drawing.FontStyle.Bold);
             this.label1.ForeColor = System.Drawing.Color.Transparent;
             this.label1.Image = ((System.Drawing.Image)(resources.GetObject("label1.Image")));
-            this.label1.Location = new System.Drawing.Point(375, 7);
+            this.label1.Location = new System.Drawing.Point(499, 359);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(19, 19);
             this.label1.TabIndex = 20;
@@ -367,7 +367,7 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Franklin Gothic Medium", 9.75F, System.Drawing.FontStyle.Bold);
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(52, 188);
+            this.button2.Location = new System.Drawing.Point(113, 320);
             this.button2.Name = "button2";
             this.button2.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.button2.Size = new System.Drawing.Size(59, 25);
@@ -393,9 +393,8 @@
             this.labelDownloadFile.ForeColor = System.Drawing.Color.Snow;
             this.labelDownloadFile.Location = new System.Drawing.Point(340, 333);
             this.labelDownloadFile.Name = "labelDownloadFile";
-            this.labelDownloadFile.Size = new System.Drawing.Size(54, 17);
+            this.labelDownloadFile.Size = new System.Drawing.Size(0, 17);
             this.labelDownloadFile.TabIndex = 33;
-            this.labelDownloadFile.Text = "Update";
             // 
             // button3
             // 
@@ -453,7 +452,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = " Aion SuccesS launcher - V0.6 for Client X64";
+            this.Text = "SGFLauncher v1.0.0 - x86 for 4.7.5.12";
             this.TransparencyKey = this.BackColor;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);

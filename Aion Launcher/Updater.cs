@@ -57,7 +57,7 @@ namespace Aion_Launcher
             }
             catch
             {
-                System.Windows.Forms.MessageBox.Show("Апдейт сервер недоступен. Подключитесь к интернету. Либо напишите на aionsuccess@gmail.com", "Внимание!");               
+               // System.Windows.Forms.MessageBox.Show("Patch server not available. Please check your connection and try again.", "Warning!");               
             }
         }
 
@@ -177,7 +177,7 @@ namespace Aion_Launcher
         public void client_DownloadFileCompleted(object sender, AsyncCompletedEventArgs e)
         {
             filesRemains--;
-            label.Text = "Файлов на скачку: " + filesRemains;
+            label.Text = "Files to jump: " + filesRemains;
 
             if (filesRemains == 0)
             {
@@ -190,7 +190,7 @@ namespace Aion_Launcher
         {
             button_play.Enabled = true;
             button_update.Enabled = true;
-            label.Text = "Готово можно играть!!!";
+            label.Text = "Finished. Game can be played!";
             progressBar.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
             progressBar.Value = 100;
         }

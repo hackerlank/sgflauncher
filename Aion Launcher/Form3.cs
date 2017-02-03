@@ -31,5 +31,10 @@ namespace Aion_Launcher
         {
 
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

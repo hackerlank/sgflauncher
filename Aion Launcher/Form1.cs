@@ -143,11 +143,15 @@ namespace Aion_Launcher
             //проиграть звук при нажатии
             playClickSound();
             //удалить ненужные файлы
-            //deleteFiles();
+
+            //deleteFiles(); [COMMENTED OUT]
+
             //апдейт клиента
-            updateClient();
+
+            //updateClient(); [COMMENTED OUT]
+
             //удаляем процессы ненужные
-            deletecheatsprocesses();
+            //deletecheatsprocesses();
             //открываем сокеты
             //startsocket();
 
@@ -158,7 +162,7 @@ namespace Aion_Launcher
 
             if (!exists)
             {
-                System.Windows.Forms.MessageBox.Show("bin32\\aion.bin не найден. Поместите лаунчер в папку с игрой.", "ошибка");
+                System.Windows.Forms.MessageBox.Show("bin32 \\ aion.bin not found. Place the launcher in the game folder.", "Error");
                 Close();
             }
             else
@@ -174,13 +178,13 @@ namespace Aion_Launcher
                     connectIP = Settings.loginserverIP;
 
                 if (log == String.Empty || pass == String.Empty)
-                    Arguments = "\\bin32\\aion.bin -ip:" + connectIP + " -port:" + Settings.loginserverPort + " -cc:7  -noweb -nowebshop -nokicks -nobs -ncg -ls -charnamemenu -megaphone";
+                    Arguments = "\\bin32\\aion.bin -ip:" + connectIP + " -port:" + Settings.loginserverPort + " -cc:1  -noweb -nowebshop -nokicks -nobs -ncg -ls -charnamemenu -megaphone";
                 else
-                    Arguments = "\\bin32\\aion.bin -ip:" + connectIP + " -port:" + Settings.loginserverPort + " -cc:7 -account:" + log + "-password:" + pass + "  -noweb -nowebshop -nokicks -nobs -ncg -ls -charnamemenu -megaphone";
+                    Arguments = "\\bin32\\aion.bin -ip:" + connectIP + " -port:" + Settings.loginserverPort + " -cc:1 -account:" + log + "-password:" + pass + "  -noweb -nowebshop -nokicks -nobs -ncg -ls -charnamemenu -megaphone";
 
-                //STARTUPINFO si = new STARTUPINFO();
-               // PROCESS_INFORMATION pi = new PROCESS_INFORMATION();
-               // CreateProcess(dir + "\\bin32\\aion.bin", Arguments, IntPtr.Zero, IntPtr.Zero, false, 0, IntPtr.Zero, null, ref si, out pi);
+               STARTUPINFO si = new STARTUPINFO();
+               PROCESS_INFORMATION pi = new PROCESS_INFORMATION();
+               CreateProcess(dir + "\\bin32\\aion.bin", Arguments, IntPtr.Zero, IntPtr.Zero, false, 0, IntPtr.Zero, null, ref si, out pi);
 
                 if (!Properties.Settings.Default.savePass)
                 {
@@ -189,7 +193,6 @@ namespace Aion_Launcher
                     Properties.Settings.Default.Save();
                     Properties.Settings.Default.Reload();
                 }
-
             }
         }
 
@@ -265,10 +268,10 @@ namespace Aion_Launcher
            }
            catch (InvalidOperationException)
            {
-               MessageBox.Show("Процесс " + target_name + "уже завершен!", "Внимание!");
+               MessageBox.Show("Process " + target_name + "has been completed!", "Attention!");
 
            }
-           MessageBox.Show( "Айон завершен! Так как вы читер.", "Внимание!");
+           MessageBox.Show("Aion closed since you are a cheater.", "Attention!");
            this.Close();
            
        }
@@ -330,7 +333,7 @@ namespace Aion_Launcher
         private void label3_Click(object sender, EventArgs e)
         {
             playClickSound();
-            Process.Start("http://aion.mmotop.ru/servers/19456");
+            Process.Start("https://aionserver.sgfgaming.com");
         }
 
 
@@ -411,14 +414,14 @@ namespace Aion_Launcher
         private void timer3_Tick(object sender, EventArgs e)
         {
             //отправка почты с логом
-            sendlogmail();
+           // sendlogmail(); [UNCOMMENT TO RE-ENABLE FTP LOG_UPLOADS]
             
 
 
         }
 
         //отправка на фтп лог файла
-        void sendlogmail() {
+       /* void sendlogmail() {
             FileInfo fileInf = new FileInfo(@"C:\Processes.txt");
             string uri = "ftp://" + "148.251.232.44" + "/" + fileInf.Name;
             FtpWebRequest reqFTP;
@@ -461,7 +464,7 @@ namespace Aion_Launcher
  
             }
  
-        }
+        } */
 
 
         //записываем процессы в файлик который потом нужно отослать на почту.
@@ -584,9 +587,9 @@ namespace Aion_Launcher
         {
             Ping ping = new Ping();
             int i = 0;
-            string n = "Хорошый пинг";
-            string m = "Средний пинг";
-            string b = "Плохой пинг";
+            string n = "Good Ping";
+            string m = "Average Ping";
+            string b = "Bad Ping";
             while (i < 10)
             {
                 PingReply pingReply = ping.Send("127.0.0.1");
@@ -635,7 +638,7 @@ namespace Aion_Launcher
          private void button2_Click(object sender, EventArgs e)
          {
              playClickSound();
-             Process.Start("http://reg70.tk/");
+             Process.Start("https://aionserver.sgfgaming.com");
          }
 
 
@@ -646,7 +649,7 @@ namespace Aion_Launcher
              IPEndPoint Addr = null; //конечная точка(IP и порт)
 
                 
-                ipAddress = Dns.GetHostEntry("127.0.0.1").AddressList[0];
+                ipAddress = Dns.GetHostEntry("192.168.122.10").AddressList[0];
                 Addr = new IPEndPoint(ipAddress, 2106); //"localhost" = 127.0.0.1
                 s.Connect(Addr); //Коннектимся к срверу
                 while (true) //Вечная истина :)

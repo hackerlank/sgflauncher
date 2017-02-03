@@ -54,14 +54,14 @@
             // 
             resources.ApplyResources(this.label1, "label1");
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.ForeColor = System.Drawing.Color.Black;
+            this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Name = "label1";
             // 
             // label2
             // 
             resources.ApplyResources(this.label2, "label2");
             this.label2.BackColor = System.Drawing.Color.Transparent;
-            this.label2.ForeColor = System.Drawing.Color.Black;
+            this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Name = "label2";
             // 
             // button1
@@ -81,7 +81,7 @@
             // 
             resources.ApplyResources(this.checkBox1, "checkBox1");
             this.checkBox1.BackColor = System.Drawing.Color.Transparent;
-            this.checkBox1.ForeColor = System.Drawing.Color.Black;
+            this.checkBox1.ForeColor = System.Drawing.Color.White;
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.UseVisualStyleBackColor = false;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
@@ -90,7 +90,7 @@
             // 
             resources.ApplyResources(this.checkBox_SavePass, "checkBox_SavePass");
             this.checkBox_SavePass.BackColor = System.Drawing.Color.Transparent;
-            this.checkBox_SavePass.ForeColor = System.Drawing.Color.Black;
+            this.checkBox_SavePass.ForeColor = System.Drawing.Color.White;
             this.checkBox_SavePass.Name = "checkBox_SavePass";
             this.checkBox_SavePass.UseVisualStyleBackColor = false;
             // 
@@ -98,7 +98,7 @@
             // 
             resources.ApplyResources(this.label3, "label3");
             this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.ForeColor = System.Drawing.Color.Black;
+            this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Name = "label3";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
